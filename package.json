@@ -1,0 +1,22 @@
+{
+  "name": "asset-downloader",
+  "version": "1.0.0",
+  "description": "Download multiple files from urls listed in a file into a folder",
+  "main": "index.js",
+  "dependencies": {
+    "line-by-line": "0.1.6",
+    "mkdirp": "0.5.1",
+    "request": "2.85.0",
+    "valid-url": "1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mononz/asset-downloader.git"
+  },
+  "author": "Jared Hall",
+  "license": "MIT"
+}
